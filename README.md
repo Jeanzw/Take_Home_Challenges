@@ -1,5 +1,5 @@
 # Take_Home_Challenge
-Data Science Take-Home Challenges
+Solution to the book "A Collection of Data Science Take-Home Challenges".
 
 #### Please don't contact me for the dataset.
 
